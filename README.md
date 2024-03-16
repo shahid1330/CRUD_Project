@@ -1,4 +1,4 @@
-# CRUD_App
+# CRUD_Project
 **Overview**
 This project is a Java-based CRUD (Create, Read, Update, Delete) application implemented in a dynamic web environment. It provides functionality to perform basic CRUD operations on a database through a web interface.
 
