@@ -10,9 +10,10 @@ This project is a Java-based CRUD (Create, Read, Update, Delete) application imp
 
 ## Technologies Used
 * Java Servlets: Handles HTTP requests and responses for dynamic content generation.
-* JDBC (Java Database Connectivity): Establishes connection with the database and performs CRUD operations.
+* JDBC (Java Database Connectivity): Establishes a connection with the database and performs CRUD operations.
 * HTML/CSS: Frontend development for web forms and user interface.
 * MySQL: Backend database for storing and managing data.
+* Eclipse IDE: Integrated development environment for Java EE (Enterprise Edition) development, facilitating code writing, debugging, and project management.
 
 ## Contribution
 Contributions are welcome! If you have any suggestions, bug fixes, or feature enhancements, feel free to submit a pull request.
