@@ -1,4 +1,6 @@
 # CRUD_Project
+![Crud image](https://www.datocms-assets.com/48294/1691046464-crud-operations-1-crud-operations.png?auto=format)
+
 **Overview**
 This project is a Java-based CRUD (Create, Read, Update, Delete) application implemented in a dynamic web environment. It provides functionality to perform basic CRUD operations on a database through a web interface.
 
